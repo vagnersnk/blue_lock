@@ -1,9 +1,8 @@
-# BLUE LOCK PROJECT
-# App para gerenciamento de partidas
+# BLUE LOCK PROJECT: App para gerenciamento de partidas
 ![capa](./images/blue_lock.jpeg)
 
 ## Projeto
-- Feito em react native 
+- Feito em react native com expo
 ## Funcionalidades
 - cronometrar o tempo.
 - gerenciar o placar de forma eficiente.
