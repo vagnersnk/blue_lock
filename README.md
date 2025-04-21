@@ -10,8 +10,6 @@
 - gerenciar cartões.
 - gerar times aleatorios a partir de uma lista de jogadores.
 
-## Modelo da tela v 1.0
-![tela](./images/modelo_01.png)
 
-## Modelo da tela v 2.0 (Gerado pelo chatgpt)
+## Modelo da tela v 1.0 (Gerado pelo chatgpt)
 ![telas chat gpt](./images/chatgpt.png)
