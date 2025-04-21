@@ -134,3 +134,76 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+.env
+.env.* # se usar variáveis de ambiente
+
+# React Native
+*.keystore
+*.jks
+*.p12
+*.key
+*.mobileprovision
+*.xcuserstate
+
+# Android
+android/.gradle/
+android/app/build/
+android/build/
+android/local.properties
+android/.idea/
+android/.cxx/
+android/gradle.properties
+android/app/google-services.json
+*.iml
+
+# iOS
+ios/Pods/
+ios/build/
+ios/Podfile.lock
+ios/*.xcworkspace
+ios/*.xcuserdata
+ios/*.xcuserstate
+ios/*.xccheckout
+ios/Flutter/
+
+# macOS
+.DS_Store
+
+# VSCode
+.vscode/
+
+# Logs
+*.log
+
+# Babel
+babel.config.js
+
+# Metro cache
+metro-cache/
+__generated__/
+
+# Buck
+.buckconfig
+.buckd/
+buck-out/
+.bazelrc
+.bazel/
+
+# Expo (caso use)
+.expo/
+.expo-shared/
+
+# Testes
+coverage/
+*.test.js.snap
+
+# Outros
+.idea/
+*.swp
