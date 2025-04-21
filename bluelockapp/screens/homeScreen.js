@@ -7,7 +7,7 @@ export default function HomeScreen({ navigation }) {
     <SafeAreaView>
       
       <Button title="Iniciar partida" onPress={() => navigation.navigate('Cronometro')} />
-      <Button title="Sortear times" onPress={() => navigation.navigate('Sortear time')} />
+      <Button title="Sortear times" onPress={() => navigation.navigate('Sortear_times')} />
     </SafeAreaView>
   );
 }
